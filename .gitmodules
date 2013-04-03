@@ -1,3 +1,6 @@
 [submodule "goldfish"]
 	path = goldfish
 	url = https://android.googlesource.com/kernel/goldfish
+[submodule "prebuilt"]
+	path = prebuilt
+	url = https://android.googlesource.com/platform/prebuilt
