@@ -4,3 +4,9 @@
 [submodule "prebuilt"]
 	path = prebuilt
 	url = https://android.googlesource.com/platform/prebuilt
+[submodule "Superuser"]
+	path = Superuser
+	url = git://github.com/koush/Superuser
+[submodule "Widgets"]
+	path = Widgets
+	url = git://github.com/koush/Widgets
