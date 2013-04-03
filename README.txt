@@ -8,6 +8,10 @@ It also contains a script for installing a su application onto the
 emulator. It can be used by a developer or in automated test
 environments.
 
+A precompiled version of su and Superuser.apk is included in the su
+directory. For an explanation on how to compile su see (3).
+
+
 Sources:
 
 (1) Code a World, building android custom kernel for emulator
