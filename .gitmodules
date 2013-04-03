@@ -1,0 +1,3 @@
+[submodule "goldfish"]
+	path = goldfish
+	url = https://android.googlesource.com/kernel/goldfish
